@@ -2726,5 +2726,7 @@ int main(int argc, char **argv)
 	glutKeyboardFunc(processNormalKeys);
 
 	glutMainLoop();
+	
+	return 0;
 
 }
